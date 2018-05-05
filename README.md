@@ -2,6 +2,10 @@
 
 ## What I Learned
 
+### Documentation
+
+Rust's [documentation](https://doc.rust-lang.org/book/first-edition/README.html) is pretty amazing. Very easy to read.
+
 ### Build System
 
 Rust uses Cargo to build and manage dependencies. To start a new project, simply run:
