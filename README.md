@@ -29,3 +29,13 @@ I was impressed by the comprehensive warnings the rust compiler demonstrated (e.
 ### Language Features
 
 Based on this tutorial, I find a lot of similarities with Kotlin (immutability, inferred type, and pattern matching).
+
+## Questions
+
+### Can I add a counter for number of turns based on first tutorial?
+
+Yes. Yes, I can. :)
+
+### How do unit tests work in Rust?
+
+TODO
