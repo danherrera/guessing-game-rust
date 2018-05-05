@@ -4,11 +4,13 @@
 
 ### Documentation
 
-Rust's [documentation](https://doc.rust-lang.org/book/first-edition/README.html) is pretty amazing. Very easy to read.
+Rust's [documentation](https://doc.rust-lang.org/book/first-edition/README.html) is pretty amazing. Very easy to read. In fact, [this tutorial](https://doc.rust-lang.org/book/first-edition/guessing-game.html) came from the documentation!
 
 ### Build System
 
-Rust uses Cargo to build and manage dependencies. To start a new project, simply run:
+Rust uses Cargo to build and manage dependencies. Rust's dependencies are called "crates" and the preferred open source "repository" (formally known as "registry" in the Rust community) is [crates.io](http://crates.io).
+
+To start a new project, execute:
 
 ```shell
 cargo new project_name --bin
