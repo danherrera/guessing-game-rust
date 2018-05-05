@@ -9,6 +9,8 @@ fn main() {
 
     let secret_number = rand::thread_rng().gen_range(1, 101);
 
+    let mut turns = 1;
+
     loop {
         println!("Please input your guess.");
 
@@ -29,9 +31,10 @@ fn main() {
             Ordering::Less     => println!("Too small!"),
             Ordering::Greater  => println!("Too big!"),
             Ordering::Equal    => {
-                println!("You win!");
+                println!("You win! You guessed correctly in {} turns!", turns);
                 break;
             }
         }
+        turns += 1;
     }
 }
