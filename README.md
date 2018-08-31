@@ -38,10 +38,6 @@ Based on this tutorial, I find a lot of similarities with Kotlin (immutability, 
 
 ## Questions
 
-### Can I add a counter for number of turns based on first tutorial?
-
-Yes. Yes, I can. :)
-
 ### How do unit tests work in Rust?
 
 TODO
