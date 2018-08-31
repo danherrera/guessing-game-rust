@@ -30,7 +30,7 @@ To run the project, execute:
 cargo run
 ```
 
-I was impressed by the comprehensive warnings the rust compiler demonstrated (e.g. warning when a `Result` is not used).
+I was impressed by the comprehensive warnings the rust compiler demonstrated.
 
 ### Language Features
 
